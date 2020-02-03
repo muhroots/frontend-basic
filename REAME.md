@@ -6,13 +6,14 @@
 - 🇧🇷 [100 dicas sobre desenvolvimento Front-end](https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7)
 
 ### CSS
+- 🇺🇸 [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) 💸
+- 🇺🇸 [CSS Reference](https://cssreference.io/)
 - 🇧🇷 [Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos](https://www.youtube.com/watch?v=bJdFqCnxmVY)
 - 🇧🇷 [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
-(https://www.youtube.com/watch?v=bJdFqCnxmVY)
 - 🇧🇷 [Layouts responsivos o seu conteúdo em múltiplos dispositivos](https://www.youtube.com/watch?v=ty7zj37gaBI)
 - 🇧🇷 [Responsive Web Design e a Ubiquidade da Web ](https://www.youtube.com/watch?v=9PQgEl8dOAY)
-- 🇧🇷 [BEM](http://getbem.com/introduction/)
-- 🇺🇸 [CSS Reference](https://cssreference.io/)
+- 🇺🇸 [BEM CSS](http://getbem.com/introduction/)
+- 🇺🇸 [You Probably Need BEM CSS in Your Life](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 
 ### Acessibilidade
 - 🇧🇷 [Desmistificando a Acessibilidade na Web](https://www.youtube.com/watch?v=hna7hbg98z4)
@@ -27,11 +28,13 @@
 
 ### JS
 - 🇧🇷 [You Dont Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- 🇧🇷 [JS com TDD na Prática](https://www.udemy.com/course/js-com-tdd-na-pratica/) 💸
 - 🇧🇷 [JavaScript Eloquente](https://github.com/braziljs/eloquente-javascript)
 - 🇺🇸 [The cost og javascript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
 ### Git
 - 🇺🇸 🇧🇷 [GitPro](https://git-scm.com/book/pt-br/v2)
+- 🇧🇷 [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/)
 
 ### Performance
 
