@@ -7,7 +7,7 @@
 
 ### CSS
 - 🇧🇷 [Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos](https://www.youtube.com/watch?v=bJdFqCnxmVY)
-- 🇧🇷 [Performance em CSS ](https://www.youtube.com/watch?v=m1iV2C44Duc)
+- 🇧🇷 [Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
 (https://www.youtube.com/watch?v=bJdFqCnxmVY)
 - 🇧🇷 [Layouts responsivos o seu conteúdo em múltiplos dispositivos](https://www.youtube.com/watch?v=ty7zj37gaBI)
 - 🇧🇷 [Responsive Web Design e a Ubiquidade da Web ](https://www.youtube.com/watch?v=9PQgEl8dOAY)
