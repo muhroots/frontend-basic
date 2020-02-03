@@ -30,7 +30,7 @@
 - 🇧🇷 [You Dont Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 - 🇧🇷 [JS com TDD na Prática](https://www.udemy.com/course/js-com-tdd-na-pratica/) 💸
 - 🇧🇷 [JavaScript Eloquente](https://github.com/braziljs/eloquente-javascript)
-- 🇺🇸 [The cost og javascript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- 🇺🇸 [The cost of javascript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
 ### Git
 - 🇺🇸 🇧🇷 [GitPro](https://git-scm.com/book/pt-br/v2)
