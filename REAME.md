@@ -24,11 +24,11 @@
 - 🇺🇸 [The cost og javascript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 
 ## Git
-- 🇺🇸 🇧🇷 [GitPro] (https://git-scm.com/book/pt-br/v2)
+- 🇺🇸 🇧🇷 [GitPro](https://git-scm.com/book/pt-br/v2)
 
 ### Performance
 - 🇧🇷 [Otimização de performance na Web: desafios do mundo mobile](https://www.infoq.com/br/presentations/otimizacao-performance-web/)
-- 🇺🇸 [Por que o desempenho é importante](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
+- 🇧🇷 [Por que o desempenho é importante](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
 - 🇺🇸 [Fast load times](https://web.dev/fast/) 
 - 🇺🇸 [Performance audits](https://web.dev/lighthouse-performance/)
 - 🇺🇸 [CSS Triggers](https://csstriggers.com/)
