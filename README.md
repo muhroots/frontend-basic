@@ -8,6 +8,7 @@
 - 🇧🇷 [100 dicas sobre desenvolvimento Front-end](https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7)
 
 ### CSS
+- 🇧🇷 [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 - 🇺🇸 [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) 💸
 - 🇺🇸 [CSS Reference](https://cssreference.io/)
 - 🇧🇷 [Além do responsive design: a mudança de paradigma do design adaptativo e os múltiplos dispositivos](https://www.youtube.com/watch?v=bJdFqCnxmVY)
@@ -55,7 +56,15 @@
 - 🇧🇷 [SEO para Front-end](https://www.youtube.com/watch?v=gauN7UL2d2Y)
 
 ## Blogs
-
+- 🇺🇸 [css wizard](https://csswizardry.com/archive/)
+- 🇺🇸 [css tricks](https://css-tricks.com/)
+- 🇺🇸 [alligator](https://alligator.io)
+- 🇺🇸 [Una Kravets](https://una.im/)
+- 🇺🇸 [web fundamentals](https://developers.google.com/web/fundamentals)
+- 🇧🇷 [da2k](https://blog.da2k.com.br/)
+- 🇧🇷 [willian justen](https://willianjusten.com.br/)
+- 🇺🇸 [web dev](https://web.dev)
+- 🇧🇷 [felipe fialho](https://www.felipefialho.com/blog/)
 - 🇧🇷 [tableless](https://tableless.com.br/)
 - 🇺🇸 [alistapart](https://alistapart.com/)
 - 🇺🇸 [smashingmagazine](https://www.smashingmagazine.com/)
