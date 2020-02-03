@@ -30,7 +30,7 @@
 - 🇺🇸 [a11y components guidelines](https://a11y-guidelines.orange.com/web_EN/exemples.html)
 
 ### JS
-- 🇧🇷 [You Dont Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- 🇧🇷 [You Dont know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 - 🇧🇷 [JS com TDD na Prática](https://www.udemy.com/course/js-com-tdd-na-pratica/) 💸
 - 🇧🇷 [JavaScript Eloquente](https://github.com/braziljs/eloquente-javascript)
 - 🇺🇸 [The cost of javascript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
@@ -64,8 +64,9 @@
 - 🇧🇷 [da2k](https://blog.da2k.com.br/)
 - 🇧🇷 [willian justen](https://willianjusten.com.br/)
 - 🇺🇸 [web dev](https://web.dev)
-- 🇧🇷 [felipe fialho](https://www.felipefialho.com/blog/)
+- 🇧🇷 [Felipe fialho](https://www.felipefialho.com/blog/)
 - 🇧🇷 [tableless](https://tableless.com.br/)
-- 🇺🇸 [alistapart](https://alistapart.com/)
+- 🇺🇸 [alist a part](https://alistapart.com/)
 - 🇺🇸 [smashingmagazine](https://www.smashingmagazine.com/)
-- 🇧🇷 [desenvolvimentoparaweb](https://desenvolvimentoparaweb.com/)
+- 🇧🇷 [desenvolvimento para web](https://desenvolvimentoparaweb.com/)
+- 🇺🇸 [CSS in real life](https://css-irl.info/)
