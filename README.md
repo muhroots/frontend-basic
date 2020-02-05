@@ -3,6 +3,7 @@
 ### HTML/CSS
 
 - 🇧🇷 [Dive into html5](https://diveintohtml5.com.br/)
+- 🇧🇷 [Alura Live #57 - Como se tornar um grande desenvolvedor front-end?](https://www.youtube.com/watch?v=sNoXv-hpAkw)
 - 🇧🇷 [A semântica do HTML 5](https://www.eventials.com/locaweb/diego-eis-a-semantica-do-html-5/)
 - 🇧🇷 [Front-End 101: A resposta sobre "estudar a base"](https://www.youtube.com/watch?v=Lw9Uu_35lco&amp;feature=youtu.be)
 - 🇧🇷 [100 dicas sobre desenvolvimento Front-end](https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7)
